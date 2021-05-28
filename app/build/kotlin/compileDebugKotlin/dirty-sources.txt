@@ -1,0 +1,5 @@
+G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\java\com\basic\programming\mygridlayoutapp\adapters\GenreAdapters.kt
+G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\java\com\basic\programming\mygridlayoutapp\MainActivity.kt
+G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\java\com\basic\programming\mygridlayoutapp\model\GenreList.kt
+G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\java\com\basic\programming\mygridlayoutapp\Services\GenreServices.kt
+G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\java\com\basic\programming\mygridlayoutapp\Services\ServiceBuilder.kt

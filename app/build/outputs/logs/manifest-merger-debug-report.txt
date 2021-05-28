@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6feca42964d4319ea62ec06862f476cb\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\7639f86fd0a8ce4b3fe7e588931068cf\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d8005d2709da20a2096e9cb66106f42d\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\1f7cfaec1b0f0f93cf4d357dbbaf0176\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a53fae40a83139211ce70255837c1bff\recyclerview-1.2.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\da4e42928446e66ed12e3e4dff730dd9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\78bb50e43d16c7ae40f344fa3455fb97\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\31c38f09ef0cbd6ef74a7088f4f3e99a\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\08159b48331476868587ee99503e54b9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a16594eaa1367234eef2d54a066ef705\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\4cb7ffd38433ad58457c58d43bf0d918\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d41a22c38c0f1ad39a00a9214b8f6fdc\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2cc3c9e42adb3043c797ba7827ad1d9\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\32826767f6b629f4545ac71d75c8a4fd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6b9ee14fa28c2ee5efb2561a9271697d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2e837c1005cb2fc362c9f84f1f2393c\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\cd9dd77a0b6fb119d6511a0cbef5bd8b\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\dc564eb27be1272cc5af302231038d2e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\642159fc9bff19d5f6e326a19134bf1d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\bd6cdbe4cd4f05b76b7d4c9cd84deddb\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d979010ea5d076d7859ea8337157ec38\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\8828cc8b20a57ac57d9446b7a68ed649\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\0a602b75efc446c23020ca28edea2efc\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d8005d2709da20a2096e9cb66106f42d\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d8005d2709da20a2096e9cb66106f42d\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2e837c1005cb2fc362c9f84f1f2393c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2e837c1005cb2fc362c9f84f1f2393c\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.basic.mobileapp.movieapp.MainActivity
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6feca42964d4319ea62ec06862f476cb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6feca42964d4319ea62ec06862f476cb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\7639f86fd0a8ce4b3fe7e588931068cf\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\7639f86fd0a8ce4b3fe7e588931068cf\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d8005d2709da20a2096e9cb66106f42d\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d8005d2709da20a2096e9cb66106f42d\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\1f7cfaec1b0f0f93cf4d357dbbaf0176\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\1f7cfaec1b0f0f93cf4d357dbbaf0176\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a53fae40a83139211ce70255837c1bff\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha01] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a53fae40a83139211ce70255837c1bff\recyclerview-1.2.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\da4e42928446e66ed12e3e4dff730dd9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\da4e42928446e66ed12e3e4dff730dd9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\78bb50e43d16c7ae40f344fa3455fb97\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\78bb50e43d16c7ae40f344fa3455fb97\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\31c38f09ef0cbd6ef74a7088f4f3e99a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\31c38f09ef0cbd6ef74a7088f4f3e99a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\08159b48331476868587ee99503e54b9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\08159b48331476868587ee99503e54b9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a16594eaa1367234eef2d54a066ef705\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\a16594eaa1367234eef2d54a066ef705\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\4cb7ffd38433ad58457c58d43bf0d918\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\4cb7ffd38433ad58457c58d43bf0d918\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d41a22c38c0f1ad39a00a9214b8f6fdc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d41a22c38c0f1ad39a00a9214b8f6fdc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2cc3c9e42adb3043c797ba7827ad1d9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2cc3c9e42adb3043c797ba7827ad1d9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\32826767f6b629f4545ac71d75c8a4fd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\32826767f6b629f4545ac71d75c8a4fd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f469378c6f3e8a5227995efb1a75bc37\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6b9ee14fa28c2ee5efb2561a9271697d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\6b9ee14fa28c2ee5efb2561a9271697d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2e837c1005cb2fc362c9f84f1f2393c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\f2e837c1005cb2fc362c9f84f1f2393c\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\cd9dd77a0b6fb119d6511a0cbef5bd8b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\cd9dd77a0b6fb119d6511a0cbef5bd8b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\dc564eb27be1272cc5af302231038d2e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\dc564eb27be1272cc5af302231038d2e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\642159fc9bff19d5f6e326a19134bf1d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\642159fc9bff19d5f6e326a19134bf1d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\bd6cdbe4cd4f05b76b7d4c9cd84deddb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\bd6cdbe4cd4f05b76b7d4c9cd84deddb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d979010ea5d076d7859ea8337157ec38\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\d979010ea5d076d7859ea8337157ec38\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\8828cc8b20a57ac57d9446b7a68ed649\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\8828cc8b20a57ac57d9446b7a68ed649\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\0a602b75efc446c23020ca28edea2efc\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\conan\.gradle\caches\transforms-2\files-2.1\0a602b75efc446c23020ca28edea2efc\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		ADDED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\MobileApp\moviecatalogapp\grid-layout-manager-app-master\MovieApp\app\src\main\AndroidManifest.xml

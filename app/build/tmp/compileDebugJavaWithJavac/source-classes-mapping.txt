@@ -1,0 +1,2 @@
+com/basic/programming/mygridlayoutapp/BuildConfig.java
+ com.basic.programming.mygridlayoutapp.BuildConfig
